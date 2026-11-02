@@ -74,5 +74,3 @@ This project helped me develop practical skills in data analysis, data visualiza
 
 It demonstrates how Python can be used to understand customer behavior and support data-driven business decisions.
 
-## Author
-Data Analytics Learner
